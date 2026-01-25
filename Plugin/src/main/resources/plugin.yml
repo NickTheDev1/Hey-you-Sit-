@@ -1,0 +1,8 @@
+name: "HeyYouSit"
+version: '1.0'
+main: org.heyusit.Main
+api-version: '1.18'
+commands:
+  sit:
+    usage: "/sit"
+    description: "Sit down everywhere you want"
