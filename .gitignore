@@ -1,4 +1,6 @@
 /Plugin/target/
 /.vscode
 /Plugin/src/main/java/org/heyusit/old_Interactions.java
-*.DS_Store
+.DS_Store
+.AppleDouble
+.LSOverride
